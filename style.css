@@ -46,6 +46,12 @@ padding: 10px;
 margin: 20px;
 }
 
+.gameOver{
+    background-color:#c1121f  ;
+    color: #000000;
+    font-weight: 700;
+}
+
 .btn-jogar{
     cursor: pointer;
     font-size: 1.5em;
