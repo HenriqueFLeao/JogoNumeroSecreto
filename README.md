@@ -16,4 +16,5 @@ Para jogar o Jogo do Número Secreto, basta clicar no link fornecido na lateral 
 
 ## Autor
 Nome: Henrique F. Leão 
+
 Contato: henriquefleao@gmail.com
